@@ -8,7 +8,7 @@
     <em>toean dan njonja ingin berbintjang namoen enggan mengoendoeh dahoeloe? ingfokan sadja pakai <a href="https://github.com/marceljsh/ingfokan">INGFOKAN</a></em>
     <br />
     <br />
-    <a href="https://logpose.vercel.app">View Demo</a>
+    <a href="https://ingfokan.vercel.app">View Demo</a>
     ·
     <a href="https://linkedin.com/in/marceljsh">See Author</a>
   </p>
@@ -18,8 +18,6 @@
 ## Overview ℹ️
 
 Initially, `ingfokan` is a ~~way too~~ simple tool for chatting and *sharing info* (mengingfokan) without having to download anything first.
-
-![Project Overview](misc/overview.png)
 
 ### Built With
 
@@ -33,7 +31,7 @@ Initially, `ingfokan` is a ~~way too~~ simple tool for chatting and *sharing inf
 <!-- LIVE DEMO -->
 ### Live Demo
 
-You can check a running version of this project <a href="https://logpose.vercel.app">here</a>
+You can check a running version of this project <a href="https://ingfokan.vercel.app">here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
